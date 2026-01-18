@@ -16,8 +16,38 @@ This project implements machine learning models to predict flue gas emissions (C
 
 ## 📊 Dataset Overview
 The dataset contains 36,733 instances of 11 sensor variables collected from a gas turbine in Turkey. 
-- **Features:** Ambient Temperature (AT), Ambient Pressure (AP), Ambient Humidity (AH), Air Filter Difference Pressure (AFDP), Gas Turbine Exhaust Pressure (GTEP), Turbine Inlet Temperature (TIT), Turbine After Temperature (TAT), Turbine Energy Yield (TEY), Compressor Discharge Pressure (CDP).
-- **Targets:** Carbon Monoxide (CO), Nitrogen Oxides (NOx).
+- **🔹 Input Features:** 
+
+The model uses real operational parameters from a gas turbine system:
+
+`AT` – Ambient Temperature
+
+`AP` – Ambient Pressure
+
+`AH` – Ambient Humidity
+
+`AFDP` – Air Filter Difference Pressure
+
+`GTEP` – Gas Turbine Exhaust Pressure
+
+`TIT` – Turbine Inlet Temperature
+
+`TAT`– Turbine After Temperature
+
+`TEY` – Turbine Energy Yield
+
+`CDP` – Compressor Discharge Pressure
+
+These features capture environmental conditions, compressor behavior, and turbine thermodynamics, making them suitable for emissions prediction.
+
+🎯 **Target Variables:**
+
+The supervised learning task predicts regulated emission outputs:
+
+`CO` – Carbon Monoxide emissions
+
+`NOx` – Nitrogen Oxides emissions
+
 
 ## 🛠️ Tech Stack
 - **Language:** Python 3.x
