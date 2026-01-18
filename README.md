@@ -93,9 +93,6 @@ The supervised learning task predicts regulated emission outputs:
 
 📝 License
 This project is open-source under the MIT License.
-code
-Code
----
 
 ### Part 3: Final Recommendations for Users
 1.  **Data Notice:** If the `.csv` files are very large, GitHub might reject them. I recommend downloading the data (e.g., [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Gas+Turbine+CO+and+NOx+Emission+Data+Set)) directly from this source.
