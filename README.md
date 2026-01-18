@@ -8,6 +8,8 @@ This project implements machine learning models to predict flue gas emissions (C
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557C)
 ![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Viz-4C72B0)
 
+![Data Science](https://img.shields.io/badge/Data%20Science-Workflow-6A5ACD)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Production--Ready-FF6F00)
 
 ## 📊 Dataset Overview
 The dataset contains 36,733 instances of 11 sensor variables collected from a gas turbine in Turkey. 
