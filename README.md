@@ -67,15 +67,5 @@ code
 Code
 ---
 
-### Part 3: Final Recommendations for GitHub
-1.  **Data Notice:** If the `.csv` files are very large, GitHub might reject them. I recommend mentioning in the README where users can download the data (e.g., [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Gas+Turbine+CO+and+NOx+Emission+Data+Set)).
-2.  **Add a `.gitignore`:** Create a file named `.gitignore` and add `.ipynb_checkpoints/`, `__pycache__/`, and `.DS_Store` to keep your repo clean.
-3.  **Requirements File:** Create a `requirements.txt` containing:
-    ```text
-    numpy
-    pandas
-    seaborn
-    matplotlib
-    scikit-learn
-    ```
-4.  **Visuals:** Before you take your final screenshots/commits, ensure your plots have titles and axis labels. Your heatmap is already excellent—it will be a great "hero image" for your project.
+### Part 3: Final Recommendations for Users
+1.  **Data Notice:** If the `.csv` files are very large, GitHub might reject them. I recommend downloading the data (e.g., [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Gas+Turbine+CO+and+NOx+Emission+Data+Set)) directly from this source.
