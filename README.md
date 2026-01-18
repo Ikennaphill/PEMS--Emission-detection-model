@@ -39,13 +39,14 @@ The dataset contains 36,733 instances of 11 sensor variables collected from a ga
 ## ⚙️ How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/gas-turbine-prediction.git
+   git clone https://github.com/Ikennaphill/PEMS--Emission-detection-model.git
 
 2. Install dependencies:
-pip install -r requirements.txt
+  
+ ` pip install -r requirements.txt `
 
 3. Run the Jupyter Notebook:
-jupyter notebook
+   ` jupyter notebook  `
 
 📝 License
 This project is open-source under the MIT License.
