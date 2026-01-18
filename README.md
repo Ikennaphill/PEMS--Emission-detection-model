@@ -42,11 +42,11 @@ The dataset contains 36,733 instances of 11 sensor variables collected from a ga
    git clone https://github.com/yourusername/gas-turbine-prediction.git
 
 2. Install dependencies:
- ```bash
+<> Bash
   pip install -r requirements.txt
 
 3. Run the Jupyter Notebook:
- ```bash
+ <> Bash
   jupyter notebook
 
 📝 License
