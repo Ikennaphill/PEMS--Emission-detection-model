@@ -8,6 +8,9 @@ This project implements machine learning models to predict flue gas emissions (C
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557C)
 ![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Viz-4C72B0)
 
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-Environment-44A833?logo=anaconda&logoColor=white)
+
 ![Data Science](https://img.shields.io/badge/Data%20Science-Workflow-6A5ACD)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Production--Ready-FF6F00)
 
