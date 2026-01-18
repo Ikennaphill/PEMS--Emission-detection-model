@@ -1,6 +1,13 @@
 # Gas Turbine Emission Prediction (CO & NOx)
 
 This project implements machine learning models to predict flue gas emissions (Carbon Monoxide and Nitrogen Oxides) from a gas turbine based on ambient variables and sensor measurements.
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-F7931E?logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557C)
+![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Viz-4C72B0)
+
 
 ## 📊 Dataset Overview
 The dataset contains 36,733 instances of 11 sensor variables collected from a gas turbine in Turkey. 
@@ -40,13 +47,14 @@ The dataset contains 36,733 instances of 11 sensor variables collected from a ga
 1. Clone this repository:
    ```bash
    git clone https://github.com/Ikennaphill/PEMS--Emission-detection-model.git
-
-2. Install dependencies:
-  
- ` pip install -r requirements.txt `
-
-3. Run the Jupyter Notebook:
-   ` jupyter notebook  `
+   
+2. **Install Dependencies**
+   ```bash
+   pip install -r requirements.txt
+   
+3. Run the app
+   ```bash
+   jupyter notebook 
 
 📝 License
 This project is open-source under the MIT License.
